@@ -1,4 +1,5 @@
 # Computer Vision First Steps
+Eloy Irigoyen - [GICI (UPV/EHU)](https://www.ehu.eus/es/web/gici)
 
 ## Introduction
 This repository has been created to introduce yourself into Computer Vision field, through basic contents coming from different sources.
